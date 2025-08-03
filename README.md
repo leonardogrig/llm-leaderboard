@@ -20,9 +20,22 @@ A community-driven repository of LLM data and benchmarks. Compare and explore la
 Our repository contains detailed information on hundreds of LLMs:
 
 - Model parameters, context window sizes, licensing details, capabilities, and more
-- Provider pricing
+- Provider pricing and configurations
 - Performance metrics (throughput, latency)
 - Standardized benchmark results
+- Organization and license information
+
+## 📁 Data Structure
+
+All data is organized in the `data/` directory:
+
+- `data/models/` - Model metadata and configurations
+- `data/providers/` - Provider information
+- `data/provider_models/` - Provider-specific model pricing and features
+- `data/benchmarks/` - Benchmark definitions
+- `data/model_benchmarks/` - Model benchmark scores
+- `data/organizations/` - Organization information
+- `data/licenses/` - License definitions
 
 ## 🤝 How to Contribute
 
@@ -30,9 +43,9 @@ We welcome community contributions to keep our data accurate and up-to-date:
 
 1. **Update Model Data**
 
-   - Browse [`models/`](models/) and [`providers/`](providers/) directories
+   - Browse the [`data/`](data/) directory structure
    - Submit a PR following our [contribution guidelines](CONTRIBUTING.md)
-   - Check [`schemas/`](schemas/) for data formats
+   - Check [`schemas/`](schemas/) for JSON Schema validation
 
 ## 📈 Data Quality
 
