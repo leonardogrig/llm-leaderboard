@@ -11,7 +11,7 @@
   "knowledge_cutoff": null,
   "param_count": 120000000000,
   "training_tokens": null,
-  "available_in_zeroeval": false,
+  "available_in_zeroeval": true,
   "source_api_ref": null,
   "source_playground": "https://gpt-oss.com/",
   "source_paper": null,
