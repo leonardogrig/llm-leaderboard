@@ -193,7 +193,7 @@
   },
   {
     "model_provider_id": 1231,
-    "model_id": "openai-oss-120b",
+    "model_id": "gpt-oss-120b",
     "provider_id": "groq",
     "deprecated_at": null,
     "input_cents_per_million_tokens": 15,
@@ -219,13 +219,13 @@
     "output_modality_video": false,
     "created_at": "2025-08-05T19:49:16.965756+00:00",
     "updated_at": "2025-08-05T19:49:16.965756+00:00",
-    "provider_model_id_used": "openai-oss-120b",
+    "provider_model_id_used": "gpt-oss-120b",
     "model_name": "OpenAI OSS 120B",
     "organization_id": "openai"
   },
   {
     "model_provider_id": 1232,
-    "model_id": "openai-oss-20b",
+    "model_id": "gpt-oss-20b",
     "provider_id": "groq",
     "deprecated_at": null,
     "input_cents_per_million_tokens": 10,
@@ -251,7 +251,7 @@
     "output_modality_video": false,
     "created_at": "2025-08-05T19:49:16.965756+00:00",
     "updated_at": "2025-08-05T19:49:16.965756+00:00",
-    "provider_model_id_used": "openai-oss-20b",
+    "provider_model_id_used": "gpt-oss-20b",
     "model_name": "OpenAI OSS 20B",
     "organization_id": "openai"
   }
