@@ -5,7 +5,7 @@
   "fine_tuned_from_model_id": null,
   "description": "GPT-5 is our flagship model for coding, reasoning, and agentic tasks across domains. The best model for coding and agentic tasks with higher reasoning capabilities and medium speed.",
   "release_date": "2025-08-07",
-  "announcement_date": "2025-07-24",
+  "announcement_date": "2025-08-07",
   "license_id": "proprietary",
   "multimodal": true,
   "knowledge_cutoff": "2024-09-30",
