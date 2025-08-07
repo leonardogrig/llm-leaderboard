@@ -133,6 +133,7 @@ Validating model...
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-4o-2024-05-13/model.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-4o-2024-08-06/model.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-4o-mini-2024-07-18/model.json
+✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-5-2025-08-01/model.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-5-2025-08-07/model.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-5-mini-2025-08-07/model.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-5-nano-2025-08-07/model.json
@@ -244,6 +245,8 @@ Validating benchmark...
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/bird-sql-(dev).json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/blink.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/boolq.json
+✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/browsecomp-long-128k.json
+✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/browsecomp-long-256k.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/browsecomp.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/c-eval.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/cbnsl.json
@@ -252,7 +255,6 @@ Validating benchmark...
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/chartqa.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/charxiv-d.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/charxiv-r.json
-✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/chatgpt-traffic-error-rate.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/chexpert-cxr.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/cluewsc.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/cmmlu.json
@@ -449,6 +451,7 @@ Validating benchmark...
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/openai-mmlu.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/openai-mrcr:-2-needle-128k.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/openai-mrcr:-2-needle-1m.json
+✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/openai-mrcr%3A-2-needle-256k.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/openbookqa.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/osworld-extended.json
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/benchmarks/osworld-screenshot-only.json
@@ -662,16 +665,17 @@ Validating benchmark-results...
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-3.5-turbo-0125/benchmarks.json (8 items)
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-4-0613/benchmarks.json (12 items)
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-4-turbo-2024-04-09/benchmarks.json (6 items)
-✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-4.1-2025-04-14/benchmarks.json (27 items)
-✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-4.1-mini-2025-04-14/benchmarks.json (26 items)
+✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-4.1-2025-04-14/benchmarks.json (30 items)
+✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-4.1-mini-2025-04-14/benchmarks.json (29 items)
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-4.1-nano-2025-04-14/benchmarks.json (25 items)
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-4.5/benchmarks.json (27 items)
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-4o-2024-05-13/benchmarks.json (8 items)
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-4o-2024-08-06/benchmarks.json (39 items)
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-4o-mini-2024-07-18/benchmarks.json (9 items)
-✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-5-2025-08-07/benchmarks.json (58 items)
-✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-5-mini-2025-08-07/benchmarks.json (0 items)
-✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-5-nano-2025-08-07/benchmarks.json (0 items)
+✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-5-2025-08-01/benchmarks.json (56 items)
+✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-5-2025-08-07/benchmarks.json (61 items)
+✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-5-mini-2025-08-07/benchmarks.json (26 items)
+✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-5-nano-2025-08-07/benchmarks.json (26 items)
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-oss-120b/benchmarks.json (11 items)
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/gpt-oss-20b/benchmarks.json (11 items)
 ✅ Valid: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data/organizations/openai/models/o1-2024-12-17/benchmarks.json (19 items)
@@ -745,8 +749,8 @@ Data directory: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data
 📂 Loading all data files...
 
 ✅ Loaded 16 organizations
-✅ Loaded 151 models
-✅ Loaded 335 benchmarks
+✅ Loaded 152 models
+✅ Loaded 337 benchmarks
 ✅ Loaded 23 licenses
 ✅ Loaded 20 providers
 
@@ -767,7 +771,7 @@ Data directory: /Users/jonathanchavez/dev/zeroeval/llm-stats/my-app/data/data
 
 ⚠️  Found 3 warnings:
 
-⚠️  4 models have no benchmark results
+⚠️  2 models have no benchmark results
 ⚠️  1 benchmarks are not used by any model
 ⚠️  1 licenses are not used by any model
 
