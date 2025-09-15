@@ -399,7 +399,7 @@
     "model_benchmark_id": 639,
     "benchmark_id": "multipl-e",
     "model_id": "kimi-k2-instruct",
-    "score": 85.7,
+    "score": 0.857,
     "normalized_score": 0.857,
     "is_self_reported": true,
     "self_reported_source_link": "https://moonshotai.github.io/Kimi-K2/",

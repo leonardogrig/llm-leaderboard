@@ -75,7 +75,7 @@
     "model_benchmark_id": 1196,
     "benchmark_id": "mbpp",
     "model_id": "codestral-22b",
-    "score": 78.2,
+    "score": 0.782,
     "normalized_score": 0.782,
     "is_self_reported": true,
     "self_reported_source_link": "https://mistral.ai/news/codestral/",

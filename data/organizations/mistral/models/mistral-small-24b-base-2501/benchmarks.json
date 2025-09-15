@@ -93,7 +93,7 @@
     "model_benchmark_id": 1195,
     "benchmark_id": "mbpp",
     "model_id": "mistral-small-24b-base-2501",
-    "score": 69.64,
+    "score": 0.6964,
     "normalized_score": 0.6964,
     "is_self_reported": true,
     "self_reported_source_link": "https://huggingface.co/mistralai/Mistral-Small-24B-Base-2501",

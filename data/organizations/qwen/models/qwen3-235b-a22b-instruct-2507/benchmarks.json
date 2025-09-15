@@ -309,7 +309,7 @@
     "model_benchmark_id": 15989,
     "benchmark_id": "multipl-e",
     "model_id": "qwen3-235b-a22b-instruct-2507",
-    "score": 87.9,
+    "score": 0.879,
     "normalized_score": 0.879,
     "is_self_reported": true,
     "self_reported_source_link": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",

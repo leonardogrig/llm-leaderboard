@@ -57,7 +57,7 @@
     "model_benchmark_id": 1398,
     "benchmark_id": "fleurs",
     "model_id": "gemini-1.5-pro",
-    "score": 6.7,
+    "score": 0.067,
     "normalized_score": 0.067,
     "is_self_reported": true,
     "self_reported_source_link": "https://deepmind.google/technologies/gemini/pro/",

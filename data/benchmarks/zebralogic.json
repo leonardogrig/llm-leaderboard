@@ -7,10 +7,10 @@
   "multilingual": false,
   "max_score": 1.0,
   "language": "en",
-  "description": "ZebraLogic benchmark",
+  "description": "ZebraLogic benchmark for evaluating logical reasoning capabilities through complex constraint satisfaction problems.",
   "paper_link": null,
   "implementation_link": null,
   "verified": false,
-  "created_at": "2025-07-19T19:56:12.500425+00:00",
-  "updated_at": "2025-07-19T19:56:12.500425+00:00"
+  "created_at": "2025-09-05T00:00:00.000000+00:00",
+  "updated_at": "2025-09-05T00:00:00.000000+00:00"
 }

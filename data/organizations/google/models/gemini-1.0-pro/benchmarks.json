@@ -39,7 +39,7 @@
     "model_benchmark_id": 1397,
     "benchmark_id": "fleurs",
     "model_id": "gemini-1.0-pro",
-    "score": 6.4,
+    "score": 0.064,
     "normalized_score": 0.064,
     "is_self_reported": false,
     "self_reported_source_link": "https://example.com/benchmark-image",

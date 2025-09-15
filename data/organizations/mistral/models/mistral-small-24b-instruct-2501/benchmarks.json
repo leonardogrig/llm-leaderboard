@@ -111,7 +111,7 @@
     "model_benchmark_id": 1613,
     "benchmark_id": "mt-bench",
     "model_id": "mistral-small-24b-instruct-2501",
-    "score": 83.5,
+    "score": 0.835,
     "normalized_score": 0.835,
     "is_self_reported": true,
     "self_reported_source_link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501",

@@ -237,7 +237,7 @@
     "model_benchmark_id": 1608,
     "benchmark_id": "mt-bench",
     "model_id": "deepseek-v2.5",
-    "score": 90.2,
+    "score": 0.902,
     "normalized_score": 0.902,
     "is_self_reported": true,
     "self_reported_source_link": "https://www.deepseek.com/",

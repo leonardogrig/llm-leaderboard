@@ -237,7 +237,7 @@
     "model_benchmark_id": 1174,
     "benchmark_id": "mbpp",
     "model_id": "gemma-3-1b-it",
-    "score": 35.199999999999996,
+    "score": 0.352,
     "normalized_score": 0.352,
     "is_self_reported": true,
     "self_reported_source_link": "https://ai.google.dev/gemma/docs/core/model_card_3",

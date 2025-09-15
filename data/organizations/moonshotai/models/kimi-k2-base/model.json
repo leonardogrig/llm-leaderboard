@@ -6,7 +6,7 @@
   "description": "Kimi K2 base model is a state-of-the-art mixture-of-experts (MoE) language model with 32 billion activated parameters and 1 trillion total parameters. Trained on 15.5 trillion tokens with the MuonClip optimizer, this is the foundation model before instruction tuning. It demonstrates strong performance on knowledge, reasoning, and coding benchmarks while being optimized for agentic capabilities.",
   "release_date": "2025-01-01",
   "announcement_date": "2025-01-01",
-  "license_id": "modified_mit_license",
+  "license_id": "mit",
   "multimodal": false,
   "knowledge_cutoff": null,
   "param_count": 1000000000000,
