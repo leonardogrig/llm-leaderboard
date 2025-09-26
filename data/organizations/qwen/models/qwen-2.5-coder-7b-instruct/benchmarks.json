@@ -183,7 +183,7 @@
     "model_benchmark_id": 1184,
     "benchmark_id": "mbpp",
     "model_id": "qwen-2.5-coder-7b-instruct",
-    "score": 83.5,
+    "score": 0.835,
     "normalized_score": 0.835,
     "is_self_reported": true,
     "self_reported_source_link": "https://arxiv.org/abs/2409.12186",

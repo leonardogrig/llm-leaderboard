@@ -183,7 +183,7 @@
     "model_benchmark_id": 1178,
     "benchmark_id": "mbpp",
     "model_id": "phi-3.5-mini-instruct",
-    "score": 69.6,
+    "score": 0.696,
     "normalized_score": 0.696,
     "is_self_reported": true,
     "self_reported_source_link": "https://huggingface.co/microsoft/Phi-3.5-mini-instruct",

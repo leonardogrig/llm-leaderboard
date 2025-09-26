@@ -39,7 +39,7 @@
     "model_benchmark_id": 1399,
     "benchmark_id": "fleurs",
     "model_id": "gemini-1.5-flash",
-    "score": 9.6,
+    "score": 0.096,
     "normalized_score": 0.096,
     "is_self_reported": true,
     "self_reported_source_link": "https://deepmind.google/technologies/gemini/flash/",

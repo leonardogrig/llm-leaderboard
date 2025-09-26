@@ -6,7 +6,7 @@
   "description": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model with 32 billion activated parameters and 1 trillion total parameters. Trained with the MuonClip optimizer, it achieves exceptional performance across frontier knowledge, reasoning, and coding tasks while being meticulously optimized for agentic capabilities. The instruct variant is post-trained for drop-in, general-purpose chat and agentic experiences without long thinking.",
   "release_date": "2025-07-11",
   "announcement_date": "2025-07-11",
-  "license_id": "modified_mit_license",
+  "license_id": "mit",
   "multimodal": false,
   "knowledge_cutoff": null,
   "param_count": 1000000000000,

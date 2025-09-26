@@ -147,7 +147,7 @@
     "model_benchmark_id": 1612,
     "benchmark_id": "mt-bench",
     "model_id": "ministral-8b-instruct-2410",
-    "score": 83.0,
+    "score": 0.83,
     "normalized_score": 0.83,
     "is_self_reported": true,
     "self_reported_source_link": "https://huggingface.co/mistralai/Ministral-8B-Instruct-2410",

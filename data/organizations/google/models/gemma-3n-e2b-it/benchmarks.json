@@ -201,7 +201,7 @@
     "model_benchmark_id": 1176,
     "benchmark_id": "mbpp",
     "model_id": "gemma-3n-e2b-it",
-    "score": 56.599999999999994,
+    "score": 0.566,
     "normalized_score": 0.566,
     "is_self_reported": true,
     "self_reported_source_link": "https://huggingface.co/google/gemma-3n-E2B-it",

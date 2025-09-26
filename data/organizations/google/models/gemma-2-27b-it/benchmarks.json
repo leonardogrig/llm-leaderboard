@@ -165,7 +165,7 @@
     "model_benchmark_id": 1170,
     "benchmark_id": "mbpp",
     "model_id": "gemma-2-27b-it",
-    "score": 62.6,
+    "score": 0.626,
     "normalized_score": 0.626,
     "is_self_reported": true,
     "self_reported_source_link": "https://huggingface.co/blog/gemma2",

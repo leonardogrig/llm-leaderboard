@@ -57,7 +57,7 @@
     "model_benchmark_id": 1194,
     "benchmark_id": "mbpp",
     "model_id": "mistral-small-3.1-24b-instruct-2503",
-    "score": 74.71,
+    "score": 0.7471,
     "normalized_score": 0.7471,
     "is_self_reported": true,
     "self_reported_source_link": "https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503",

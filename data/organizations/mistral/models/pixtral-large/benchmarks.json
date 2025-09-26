@@ -75,7 +75,7 @@
     "model_benchmark_id": 1732,
     "benchmark_id": "mm-mt-bench",
     "model_id": "pixtral-large",
-    "score": 74.0,
+    "score": 0.74,
     "normalized_score": 0.74,
     "is_self_reported": true,
     "self_reported_source_link": "https://mistral.ai/news/pixtral-large/",

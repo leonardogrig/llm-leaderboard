@@ -147,7 +147,7 @@
     "model_benchmark_id": 1175,
     "benchmark_id": "mbpp",
     "model_id": "gemini-diffusion",
-    "score": 76.0,
+    "score": 0.76,
     "normalized_score": 0.76,
     "is_self_reported": true,
     "self_reported_source_link": "https://deepmind.google/models/gemini-diffusion/",

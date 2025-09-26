@@ -255,7 +255,7 @@
     "model_benchmark_id": 1191,
     "benchmark_id": "mbpp",
     "model_id": "qwen2.5-vl-32b",
-    "score": 84.0,
+    "score": 0.84,
     "normalized_score": 0.84,
     "is_self_reported": true,
     "self_reported_source_link": "https://huggingface.co/Qwen/Qwen2.5-VL-32B-Instruct",
