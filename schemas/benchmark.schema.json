@@ -25,30 +25,50 @@
       "type": ["string", "null"],
       "description": "ID of parent benchmark if this is a subset or variant"
     },
-    "category": {
-      "type": "string",
-      "description": "Category of tasks the benchmark evaluates",
-      "enum": [
-        "general",
-        "code",
-        "math",
-        "reasoning",
-        "language",
-        "multimodal",
-        "safety",
-        "long_context",
-        "roleplay",
-        "agents",
-        "factuality",
-        "vision",
-        "audio",
-        "video",
-        "text-to-image",
-        "image-to-text",
-        "text-to-speech",
-        "speech-to-text",
-        "text-to-video",
-        "video-to-text"
+    "categories": {
+      "type": "array",
+      "description": "Array of categories that this benchmark belongs to",
+      "items": {
+        "type": "string",
+        "enum": [
+          "general",
+          "code",
+          "math",
+          "reasoning",
+          "language",
+          "multimodal",
+          "safety",
+          "long_context",
+          "roleplay",
+          "agents",
+          "factuality",
+          "vision",
+          "audio",
+          "video",
+          "text-to-image",
+          "image-to-text",
+          "text-to-speech",
+          "speech-to-text",
+          "text-to-video",
+          "video-to-text",
+          "legal",
+          "healthcare",
+          "finance",
+          "chemistry",
+          "economics",
+          "coding",
+          "creativity",
+          "psychology",
+          "games"
+        ]
+      },
+      "minItems": 1,
+      "uniqueItems": true,
+      "examples": [
+        ["general"],
+        ["code", "reasoning"],
+        ["math", "reasoning"],
+        ["vision", "multimodal"]
       ]
     },
     "modality": {
@@ -107,7 +127,7 @@
   "required": [
     "benchmark_id",
     "name",
-    "category",
+    "categories",
     "modality",
     "multilingual",
     "max_score",

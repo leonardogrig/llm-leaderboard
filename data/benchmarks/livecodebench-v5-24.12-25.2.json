@@ -2,7 +2,7 @@
   "benchmark_id": "livecodebench-v5-24.12-25.2",
   "name": "LiveCodeBench v5 24.12-25.2",
   "parent_benchmark_id": null,
-  "category": "code",
+  "categories": ["code"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

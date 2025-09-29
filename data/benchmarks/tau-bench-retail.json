@@ -2,7 +2,7 @@
   "benchmark_id": "tau-bench-retail",
   "name": "TAU-bench Retail",
   "parent_benchmark_id": null,
-  "category": "agents",
+  "categories": ["agents"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

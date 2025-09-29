@@ -2,7 +2,7 @@
   "benchmark_id": "browsecomp-long-128k",
   "name": "BrowseComp Long Context 128k",
   "parent_benchmark_id": "browsecomp",
-  "category": "long_context",
+  "categories": ["long_context"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

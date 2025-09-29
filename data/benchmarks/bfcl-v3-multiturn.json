@@ -2,7 +2,7 @@
   "benchmark_id": "bfcl-v3-multiturn",
   "name": "BFCL_v3_MultiTurn",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

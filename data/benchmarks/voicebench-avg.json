@@ -2,7 +2,7 @@
   "benchmark_id": "voicebench-avg",
   "name": "VoiceBench Avg",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "audio",
   "multilingual": false,
   "max_score": 1.0,

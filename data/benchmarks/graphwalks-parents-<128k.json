@@ -2,7 +2,7 @@
   "benchmark_id": "graphwalks-parents-<128k",
   "name": "Graphwalks parents <128k",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

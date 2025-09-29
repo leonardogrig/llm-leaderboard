@@ -2,7 +2,7 @@
   "benchmark_id": "browsecomp-zh",
   "name": "BrowseComp-zh",
   "parent_benchmark_id": "browsecomp",
-  "category": "agents",
+  "categories": ["agents"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

@@ -2,7 +2,7 @@
   "benchmark_id": "swe-bench-verified-(agentless)",
   "name": "SWE-bench Verified (Agentless)",
   "parent_benchmark_id": null,
-  "category": "agents",
+  "categories": ["agents"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

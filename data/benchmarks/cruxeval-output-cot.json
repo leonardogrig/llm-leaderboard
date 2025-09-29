@@ -2,7 +2,7 @@
   "benchmark_id": "cruxeval-output-cot",
   "name": "CRUXEval-Output-CoT",
   "parent_benchmark_id": null,
-  "category": "code",
+  "categories": ["code"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

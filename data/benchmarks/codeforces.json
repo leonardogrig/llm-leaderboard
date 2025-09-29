@@ -2,7 +2,7 @@
   "benchmark_id": "codeforces",
   "name": "CodeForces",
   "parent_benchmark_id": null,
-  "category": "code",
+  "categories": ["code"],
   "modality": "text",
   "multilingual": false,
   "max_score": 3000.0,

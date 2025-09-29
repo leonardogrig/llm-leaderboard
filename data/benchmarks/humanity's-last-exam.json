@@ -2,7 +2,7 @@
   "benchmark_id": "humanity's-last-exam",
   "name": "Humanity's Last Exam",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

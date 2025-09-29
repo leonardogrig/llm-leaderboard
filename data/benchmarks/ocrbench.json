@@ -2,7 +2,7 @@
   "benchmark_id": "ocrbench",
   "name": "OCRBench",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

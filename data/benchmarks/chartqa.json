@@ -2,7 +2,7 @@
   "benchmark_id": "chartqa",
   "name": "ChartQA",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "multimodal",
   "multilingual": false,
   "max_score": 1.0,

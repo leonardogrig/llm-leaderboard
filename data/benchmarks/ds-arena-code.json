@@ -2,7 +2,7 @@
   "benchmark_id": "ds-arena-code",
   "name": "DS-Arena-Code",
   "parent_benchmark_id": null,
-  "category": "code",
+  "categories": ["code"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

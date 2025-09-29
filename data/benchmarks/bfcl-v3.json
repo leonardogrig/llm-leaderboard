@@ -2,7 +2,7 @@
   "benchmark_id": "bfcl-v3",
   "name": "BFCL-v3",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

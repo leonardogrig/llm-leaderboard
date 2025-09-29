@@ -2,7 +2,7 @@
   "benchmark_id": "superglue",
   "name": "SuperGLUE",
   "parent_benchmark_id": null,
-  "category": "language",
+  "categories": ["language"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

@@ -2,7 +2,7 @@
   "benchmark_id": "aime-2024",
   "name": "AIME 2024",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

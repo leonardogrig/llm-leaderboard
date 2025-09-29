@@ -19,7 +19,7 @@
   },
   {
     "model_benchmark_id": 9522,
-    "benchmark_id": "gpqa-diamond",
+    "benchmark_id": "gpqa",
     "model_id": "deepseek-v3.2-exp",
     "score": 0.799,
     "normalized_score": 0.799,
@@ -33,7 +33,7 @@
     "verification_notes": null,
     "created_at": "2025-09-29T00:00:00.000000+00:00",
     "updated_at": "2025-09-29T00:00:00.000000+00:00",
-    "benchmark_name": "GPQA-Diamond"
+    "benchmark_name": "GPQA"
   },
   {
     "model_benchmark_id": 9523,

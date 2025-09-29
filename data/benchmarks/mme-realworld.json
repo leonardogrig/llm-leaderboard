@@ -2,7 +2,7 @@
   "benchmark_id": "mme-realworld",
   "name": "MME-RealWorld",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "video",
   "multilingual": false,
   "max_score": 1.0,

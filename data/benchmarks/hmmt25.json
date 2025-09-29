@@ -2,7 +2,7 @@
   "benchmark_id": "hmmt25",
   "name": "HMMT25",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

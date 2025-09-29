@@ -2,7 +2,7 @@
   "benchmark_id": "open-rewrite",
   "name": "Open-rewrite",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

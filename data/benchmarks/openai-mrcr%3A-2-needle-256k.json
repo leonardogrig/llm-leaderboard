@@ -2,7 +2,7 @@
   "benchmark_id": "openai-mrcr:-2-needle-256k",
   "name": "OpenAI-MRCR: 2 needle 256k",
   "parent_benchmark_id": null,
-  "category": "long_context",
+  "categories": ["long_context"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

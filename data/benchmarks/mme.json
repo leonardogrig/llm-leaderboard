@@ -2,7 +2,7 @@
   "benchmark_id": "mme",
   "name": "MME",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "video",
   "multilingual": false,
   "max_score": 1.0,

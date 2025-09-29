@@ -2,7 +2,7 @@
   "benchmark_id": "infovqatest",
   "name": "InfoVQAtest",
   "parent_benchmark_id": null,
-  "category": "vision",
+  "categories": ["vision"],
   "modality": "multimodal",
   "multilingual": false,
   "max_score": 1.0,

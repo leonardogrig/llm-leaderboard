@@ -2,7 +2,7 @@
   "benchmark_id": "ai2d",
   "name": "AI2D",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

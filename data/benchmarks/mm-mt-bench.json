@@ -2,7 +2,7 @@
   "benchmark_id": "mm-mt-bench",
   "name": "MM-MT-Bench",
   "parent_benchmark_id": null,
-  "category": "roleplay",
+  "categories": ["roleplay"],
   "modality": "text",
   "multilingual": false,
   "max_score": 100.0,

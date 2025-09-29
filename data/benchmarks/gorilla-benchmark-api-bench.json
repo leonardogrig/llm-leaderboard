@@ -2,7 +2,7 @@
   "benchmark_id": "gorilla-benchmark-api-bench",
   "name": "Gorilla Benchmark API Bench",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

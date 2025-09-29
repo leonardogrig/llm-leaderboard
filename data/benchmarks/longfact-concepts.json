@@ -2,7 +2,7 @@
   "benchmark_id": "longfact-concepts",
   "name": "LongFact Concepts",
   "parent_benchmark_id": null,
-  "category": "factuality",
+  "categories": ["factuality"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

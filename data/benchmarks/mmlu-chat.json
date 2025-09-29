@@ -2,7 +2,7 @@
   "benchmark_id": "mmlu-chat",
   "name": "MMLU Chat",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

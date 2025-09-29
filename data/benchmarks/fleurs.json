@@ -2,7 +2,7 @@
   "benchmark_id": "fleurs",
   "name": "FLEURS",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "text",
   "multilingual": false,
   "max_score": 100.0,

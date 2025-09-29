@@ -2,7 +2,7 @@
   "benchmark_id": "ai2-reasoning-challenge-(arc)",
   "name": "AI2 Reasoning Challenge (ARC)",
   "parent_benchmark_id": null,
-  "category": "reasoning",
+  "categories": ["reasoning"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

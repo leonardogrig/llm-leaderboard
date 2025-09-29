@@ -2,7 +2,7 @@
   "benchmark_id": "livebench-20241125",
   "name": "LiveBench 20241125",
   "parent_benchmark_id": null,
-  "category": "roleplay",
+  "categories": ["roleplay"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

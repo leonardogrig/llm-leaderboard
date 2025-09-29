@@ -2,7 +2,7 @@
   "benchmark_id": "multilingual-mgsm-(cot)",
   "name": "Multilingual MGSM (CoT)",
   "parent_benchmark_id": null,
-  "category": "math",
+  "categories": ["math"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

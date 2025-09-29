@@ -2,7 +2,7 @@
   "benchmark_id": "livecodebench(01-09)",
   "name": "LiveCodeBench(01-09)",
   "parent_benchmark_id": null,
-  "category": "code",
+  "categories": ["code"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

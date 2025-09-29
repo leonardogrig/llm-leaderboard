@@ -2,7 +2,7 @@
   "benchmark_id": "longbench-v2",
   "name": "LongBench v2",
   "parent_benchmark_id": null,
-  "category": "long_context",
+  "categories": ["long_context"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

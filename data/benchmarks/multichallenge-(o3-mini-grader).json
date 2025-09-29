@@ -2,7 +2,7 @@
   "benchmark_id": "multichallenge-(o3-mini-grader)",
   "name": "MultiChallenge (o3-mini grader)",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,

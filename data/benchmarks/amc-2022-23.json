@@ -2,7 +2,7 @@
   "benchmark_id": "amc-2022-23",
   "name": "AMC_2022_23",
   "parent_benchmark_id": null,
-  "category": "general",
+  "categories": ["general"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,
