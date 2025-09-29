@@ -73,7 +73,7 @@
   },
   {
     "model_benchmark_id": 9205,
-    "benchmark_id": "aime25",
+    "benchmark_id": "aime-2025",
     "model_id": "qwen3-next-80b-a3b-thinking",
     "score": 0.878,
     "normalized_score": 0.878,
@@ -87,7 +87,7 @@
     "verification_notes": null,
     "created_at": "2025-01-10T00:00:00.000000+00:00",
     "updated_at": "2025-09-15T00:00:00.000000+00:00",
-    "benchmark_name": "AIME25"
+    "benchmark_name": "AIME 2025"
   },
   {
     "model_benchmark_id": 9206,
