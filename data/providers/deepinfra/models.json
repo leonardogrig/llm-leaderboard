@@ -241,7 +241,6 @@
     "feature_code_execution": false,
     "feature_batch_inference": true,
     "feature_finetuning": false,
-    "feature_reasoning": true,
     "input_modality_text": true,
     "input_modality_image": false,
     "input_modality_audio": false,
