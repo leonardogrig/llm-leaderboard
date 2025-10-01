@@ -65,7 +65,8 @@
           "spatial_reasoning",
           "summarization",
           "frontend_development",
-          "writing"
+          "writing",
+          "search"
         ]
       },
       "minItems": 1,
