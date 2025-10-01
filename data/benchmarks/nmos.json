@@ -7,7 +7,7 @@
   "multilingual": false,
   "max_score": 100.0,
   "language": "en",
-  "description": "NMOS benchmark",
+  "description": "NMOS evaluation benchmark for assessing model performance on specialized tasks",
   "paper_link": null,
   "implementation_link": null,
   "verified": false,
