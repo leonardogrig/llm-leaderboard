@@ -59,7 +59,12 @@
           "coding",
           "creativity",
           "psychology",
-          "games"
+          "games",
+          "communication",
+          "physics",
+          "spatial_reasoning",
+          "summarization",
+          "frontend_development"
         ]
       },
       "minItems": 1,
