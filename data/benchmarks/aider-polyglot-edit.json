@@ -2,15 +2,15 @@
   "benchmark_id": "aider-polyglot-edit",
   "name": "Aider-Polyglot Edit",
   "parent_benchmark_id": null,
-  "categories": ["general"],
+  "categories": ["general", "code"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,
   "language": "en",
-  "description": "Aider-Polyglot Edit benchmark",
+  "description": "A challenging multi-language coding benchmark that evaluates models' code editing abilities across C++, Go, Java, JavaScript, Python, and Rust. Contains 225 of Exercism's most difficult programming problems, selected as problems that were solved by 3 or fewer out of 7 top coding models. The benchmark focuses on code editing tasks and measures both correctness of solutions and proper edit format usage. Designed to re-calibrate evaluation scales so top models score between 5-50%.",
   "paper_link": null,
-  "implementation_link": null,
+  "implementation_link": "https://github.com/Aider-AI/polyglot-benchmark",
   "verified": false,
   "created_at": "2025-07-19T19:56:13.789839+00:00",
-  "updated_at": "2025-07-19T19:56:13.789839+00:00"
+  "updated_at": "2025-09-30T00:00:00.000000+00:00"
 }

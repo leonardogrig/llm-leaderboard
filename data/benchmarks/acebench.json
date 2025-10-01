@@ -1,16 +1,16 @@
 {
   "benchmark_id": "acebench",
-  "name": "AceBench",
+  "name": "ACEBench",
   "parent_benchmark_id": null,
-  "categories": ["agents"],
+  "categories": ["general", "reasoning"],
   "modality": "text",
   "multilingual": false,
   "max_score": 1.0,
   "language": "en",
-  "description": "AceBench for evaluating agent capabilities in tool use and complex task completion.",
-  "paper_link": null,
-  "implementation_link": null,
+  "description": "ACEBench is a comprehensive benchmark for evaluating Large Language Models' tool usage capabilities across three primary evaluation types: Normal (basic tool usage scenarios), Special (tool usage with ambiguous or incomplete instructions), and Agent (multi-agent interactions simulating real-world dialogues). The benchmark covers 4,538 APIs across 8 major domains and 68 sub-domains including technology, finance, entertainment, society, health, culture, and environment, supporting both English and Chinese languages.",
+  "paper_link": "https://arxiv.org/abs/2501.12851",
+  "implementation_link": "https://github.com/ACEBench/ACEBench",
   "verified": false,
   "created_at": "2025-09-05T00:00:00.000000+00:00",
-  "updated_at": "2025-09-05T00:00:00.000000+00:00"
+  "updated_at": "2025-09-30T00:00:00.000000+00:00"
 }
