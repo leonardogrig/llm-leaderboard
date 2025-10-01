@@ -64,7 +64,8 @@
           "physics",
           "spatial_reasoning",
           "summarization",
-          "frontend_development"
+          "frontend_development",
+          "writing"
         ]
       },
       "minItems": 1,
