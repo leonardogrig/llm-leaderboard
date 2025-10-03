@@ -11,7 +11,7 @@
   "knowledge_cutoff": null,
   "param_count": 22200000000,
   "training_tokens": null,
-  "available_in_zeroeval": true,
+  "available_in_zeroeval": false,
   "source_api_ref": "https://docs.mistral.ai/api/",
   "source_playground": "https://chat.mistral.ai/",
   "source_paper": null,
