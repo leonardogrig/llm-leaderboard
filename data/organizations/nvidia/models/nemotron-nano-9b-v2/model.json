@@ -9,7 +9,7 @@
   "license_id": "nvidia_open_model_license_agreement",
   "multimodal": false,
   "knowledge_cutoff": "2024-09",
-  "param_count": 88900000000,
+  "param_count": 8900000000,
   "training_tokens": 21100000000000,
   "available_in_zeroeval": true,
   "source_api_ref": null,
