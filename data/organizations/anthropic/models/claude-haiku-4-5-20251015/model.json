@@ -8,7 +8,7 @@
   "announcement_date": "2025-10-15",
   "license_id": "proprietary",
   "multimodal": true,
-  "knowledge_cutoff": "2025-02",
+  "knowledge_cutoff": "2025-02-01",
   "param_count": null,
   "training_tokens": null,
   "available_in_zeroeval": true,
