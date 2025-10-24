@@ -1,3 +1,13 @@
+# DEPRECATED - Updates and contributions
+
+This repository is now depracated and won't be getting any new updates. For contributions and corrections of the data seen in [LLM Stats](https://llm-stats.com/) please create a post with the tag "Issue" in the [official community section](https://llm-stats.com/posts) of the website.
+
+For model and/or benchmark specific corrections, please visit create an Issue under the "Discussion" tab of the model/benchmark, as seen in the example below.
+
+<img width="1156" height="575" alt="Screenshot 2025-10-24 at 1 43 52 p m" src="https://github.com/user-attachments/assets/b78f2cf3-f3ff-4a51-bba4-d8643865d16b" />
+
+---
+
 <img width="1208" alt="image" src="https://github.com/user-attachments/assets/835f1e1b-73e6-405a-b7ad-096d5f5f567a" />
 
 # LLM-Stats.com
